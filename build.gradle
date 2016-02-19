@@ -27,7 +27,7 @@ dependencyManagement {
 }
 
 jar {
-    baseName = 'democonfigserver'
+    baseName = 'expdata-config-server'
     version = '1.0.0.0'
 }
 
